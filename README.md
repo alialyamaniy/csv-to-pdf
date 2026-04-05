@@ -48,9 +48,9 @@ Here is an example of the [output PDF](public/types/output-type/) which can be c
 
 ----
 
-[GitHub csvToPdf Repository](https://github.com/aliyalkadimy/csv-to-pdf/)
+[GitHub csvToPdf Repository](https://github.com/alialkadimiy/csv-to-pdf/)
 
-[GitHub @aliyalkadimy](https://github.com/aliyalkadimy/)
+[GitHub @alialkadimiy](https://github.com/alialkadimiy/)
 
 <aselyamanis@gmail.com>
 
